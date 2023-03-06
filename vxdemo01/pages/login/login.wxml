@@ -1,0 +1,4 @@
+<view>
+  <button bindtap="handleLogin">login</button>
+  <button bindtap="handlSignup">sign up</button>
+</view>

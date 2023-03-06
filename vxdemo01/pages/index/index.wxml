@@ -1,0 +1,5 @@
+<view>
+  <image src="{{user.avatar}}" background-size="cover"></image>
+  <text>{{user.name}}</text>
+  <text>{{user.gender}}</text>
+</view>
